@@ -386,7 +386,7 @@ class Processor:
             icon_url=self.status_tweet["user"]["profile_image_url"],
         )
         self.embed.set_footer(
-            text="Crypto-Twitter v1.1 | Adi x HeavyDrops",
+            text="CryptoTwitter v1.1 | Adi x HeavyDrops",
             icon_url="https://i.imgur.com/mMkIcZD.png",
         )
 
