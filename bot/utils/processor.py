@@ -386,8 +386,8 @@ class Processor:
             icon_url=self.status_tweet["user"]["profile_image_url"],
         )
         self.embed.set_footer(
-            text="Twitter v1 | Flow Solutions",
-            icon_url="https://i.imgur.com/cb0Jksl.png",
+            text="Twitter v1 | Adi x HeavyDrops",
+            icon_url="https://i.imgur.com/mMkIcZD.png",
         )
 
     def send_message(self, wh_url):
