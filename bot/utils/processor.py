@@ -386,8 +386,8 @@ class Processor:
             icon_url=self.status_tweet["user"]["profile_image_url"],
         )
         self.embed.set_footer(
-            text="CryptoTwitter v1.1 | Adi x HeavyDrops",
-            icon_url="https://i.imgur.com/mMkIcZD.png",
+            text="Flow Monitors | Flow Solutions",
+            icon_url="https://cdn.discordapp.com/attachments/838847460520361984/844546519939678258/Flow-Solutions-Branding-Final-Export-2-by-iamnotsrc.png",
         )
 
     def send_message(self, wh_url):
